@@ -1,0 +1,15 @@
+C:\Users\artem\OneDrive\Документы\Zhargal\GameZhargal2\bin\Debug\net7.0\GameZhargal2.exe
+C:\Users\artem\OneDrive\Документы\Zhargal\GameZhargal2\bin\Debug\net7.0\GameZhargal2.deps.json
+C:\Users\artem\OneDrive\Документы\Zhargal\GameZhargal2\bin\Debug\net7.0\GameZhargal2.runtimeconfig.json
+C:\Users\artem\OneDrive\Документы\Zhargal\GameZhargal2\bin\Debug\net7.0\GameZhargal2.dll
+C:\Users\artem\OneDrive\Документы\Zhargal\GameZhargal2\bin\Debug\net7.0\GameZhargal2.pdb
+C:\Users\artem\OneDrive\Документы\Zhargal\GameZhargal2\obj\Debug\net7.0\GameZhargal2.csproj.AssemblyReference.cache
+C:\Users\artem\OneDrive\Документы\Zhargal\GameZhargal2\obj\Debug\net7.0\GameZhargal2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\OneDrive\Документы\Zhargal\GameZhargal2\obj\Debug\net7.0\GameZhargal2.AssemblyInfoInputs.cache
+C:\Users\artem\OneDrive\Документы\Zhargal\GameZhargal2\obj\Debug\net7.0\GameZhargal2.AssemblyInfo.cs
+C:\Users\artem\OneDrive\Документы\Zhargal\GameZhargal2\obj\Debug\net7.0\GameZhargal2.csproj.CoreCompileInputs.cache
+C:\Users\artem\OneDrive\Документы\Zhargal\GameZhargal2\obj\Debug\net7.0\GameZhargal2.dll
+C:\Users\artem\OneDrive\Документы\Zhargal\GameZhargal2\obj\Debug\net7.0\refint\GameZhargal2.dll
+C:\Users\artem\OneDrive\Документы\Zhargal\GameZhargal2\obj\Debug\net7.0\GameZhargal2.pdb
+C:\Users\artem\OneDrive\Документы\Zhargal\GameZhargal2\obj\Debug\net7.0\GameZhargal2.genruntimeconfig.cache
+C:\Users\artem\OneDrive\Документы\Zhargal\GameZhargal2\obj\Debug\net7.0\ref\GameZhargal2.dll
